@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF=-1 tvg-logo="" tvg-id="" group-title="",NOMBRE DEL CANAL
-URL DEL CANAL
+-------- HONDURAS-------
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA6F4pSEmKEZe78-kcn9ZBhyZc9RjTbgVVHC90-yXdvQ&s=10" tvg-id="AlsaciasTelevision.hn@SD" group-title="HONDURAS TV",Alsacias Televisión (ATV | Canal 28) (720p)
+https://s.emisoras.tv:8081/atv/index.m3u8
